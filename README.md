@@ -11,15 +11,15 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 
 ## Hello World
 
-- [`our-workstation`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/02-hello-world.java)
-- [`writing-react`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/03-cooking-mama.java)
-- [`building-blocks`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/04-error-logs.java)
-- [`social-post`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/05-music-wrapped.java)
+- [`hello-world`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/02-hello-world.java)
+- [`cooking-mama`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/03-cooking-mama.java)
+- [`error-logs`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/04-error-logs.java)
+- [`music-wrapped`](https://github.com/codedex-io/java-101/blob/main/1-hello-world/05-music-wrapped.java)
 
 ## Variables
 
-- [`band-tour`](https://github.com/codedex-io/java-101/blob/main/2-variables/06-storage-box.java)
-- [`embedded-js`](https://github.com/codedex-io/java-101/blob/main/2-variables/07-id-card.java)
-- [`travel-gallery`](https://github.com/codedex-io/java-101/blob/main/2-variables/08-operation-0.java)
-- [`hot-takes`](https://github.com/codedex-io/java-101/blob/main/2-variables/09-escape-room.java) (pt. 1)
-- [`hot-takes`](https://github.com/codedex-io/java-101/blob/main/2-variables/10-club-penguin.java) (pt. 2)
+- [`storage-box`](https://github.com/codedex-io/java-101/blob/main/2-variables/06-storage-box.java)
+- [`id-card`](https://github.com/codedex-io/java-101/blob/main/2-variables/07-id-card.java)
+- [`operation-0`](https://github.com/codedex-io/java-101/blob/main/2-variables/08-operation-0.java)
+- [`escape-room`](https://github.com/codedex-io/java-101/blob/main/2-variables/09-escape-room.java) (pt. 1)
+- [`club-penguin`](https://github.com/codedex-io/java-101/blob/main/2-variables/10-club-penguin.java) (pt. 2)

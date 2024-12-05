@@ -10,8 +10,9 @@ public class HelloWorld {
         boolean organDonor = false;
 
         System.out.println(name);
-        System.out.println(middleInitial);
+        System.out.println(state);
+        System.out.println(gender);
         System.out.println(age);
-        System.out.println(inSchool);
+        System.out.println(organDonor);
     }
 }

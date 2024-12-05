@@ -4,9 +4,10 @@
 public class HelloWorld {
     public static void main(String[] args) {
         String name = "Ellie";
-        char middleInitial = 'M';
+        String state = "Illinois";
+        char gender = 'F';
         int age = 28;
-        boolean inSchool = false;
+        boolean organDonor = false;
 
         System.out.println(name);
         System.out.println(middleInitial);

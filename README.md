@@ -29,5 +29,5 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 - [`cat-owner`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/12-cat-owner.java)
 - [`dog-owner`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/13-dog-owner.java)
 - [`rollercoaster`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/14-rollercoaster.java)
-- [`coffee-mugs`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/15-coffee-mugs.java)
+- [`coffee-order`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/15-coffee-order.java)
 

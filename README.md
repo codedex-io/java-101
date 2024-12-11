@@ -26,8 +26,8 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 
 ## Control Flow
 - [`oatmeal`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/11-oatmeal.java)
-- [`cats`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/12-cats.java)
-- [`pups`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/13-pups.java)
+- [`cat-owner`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/12-cat-owner.java)
+- [`dog-owner`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/13-dog-owner.java)
 - [`rollercoaster`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/14-rollercoaster.java)
 - [`coffee-mugs`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/15-coffee-mugs.java)
 

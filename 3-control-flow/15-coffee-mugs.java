@@ -21,7 +21,7 @@ public class HelloWorld {
             System.out.println("provide cup holder.");
         }
 
-        if (vanillaPumps >=2 ) {
+        if (vanillaPumps >= 2) {
             System.out.println("charge $1 for extra vanilla.");
         }
         

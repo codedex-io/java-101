@@ -19,10 +19,10 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 ## Variables
 
 - [`storage-box`](https://github.com/codedex-io/java-101/blob/main/2-variables/06-storage-box.java)
-- [`id-card](https://github.com/codedex-io/java-101/blob/main/2-variables/07-id-card.java)
-- [`operation-0](https://github.com/codedex-io/java-101/blob/main/2-variables/08-operation-0.java)
-- [`escape-room](https://github.com/codedex-io/java-101/blob/main/2-variables/09-escape-room.java)
-- [`club-penguin](https://github.com/codedex-io/java-101/blob/main/2-variables/10-club-penguin.java)
+- [`id-card`](https://github.com/codedex-io/java-101/blob/main/2-variables/07-id-card.java)
+- [`operation-0`](https://github.com/codedex-io/java-101/blob/main/2-variables/08-operation-0.java)
+- [`escape-room`](https://github.com/codedex-io/java-101/blob/main/2-variables/09-escape-room.java)
+- [`club-penguin`](https://github.com/codedex-io/java-101/blob/main/2-variables/10-club-penguin.java)
 
 ## Control Flow
 - [`oatmeal`](https://github.com/codedex-io/java-101/blob/main/3-control-flow/11-oatmeal.java)

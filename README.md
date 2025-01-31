@@ -37,3 +37,10 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 - [`affirmations`](https://github.com/codedex-io/java-101/blob/main/4-loops/18-affirmations.java)
 - [`hit-the-breaks`](https://github.com/codedex-io/java-101/blob/main/4-loops/19-hit-the-breaks.java)
 - [`playing-cards`](https://github.com/codedex-io/java-101/blob/main/4-loops/16-playing-cards.java)
+
+## Arrays
+- [`survival-pack`](https://github.com/codedex-io/java-101/blob/main/5-arrays/21-survival-pack.java)
+- [`position-0`](https://github.com/codedex-io/java-101/blob/main/5-arrays/22-position-0.java)
+- [`gibberish`](https://github.com/codedex-io/java-101/blob/main/5-arrays/23-gibberish.java)
+- [`chill-lounge-friday-afternoon`](https://github.com/codedex-io/java-101/blob/main/5-arrays/24-chill-lounge-friday-afternoon.java)
+- [`clue`](https://github.com/codedex-io/java-101/blob/main/4-loops/25-clue.java)

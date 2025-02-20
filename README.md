@@ -49,6 +49,6 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 - [`double-square`](https://github.com/codedex-io/java-101/blob/main/6-methods/26-double-square.java)
 - [`222`](https://github.com/codedex-io/java-101/blob/main/6-methods/27-222.java)
 - [`tv-channels`](https://github.com/codedex-io/java-101/blob/main/6-methods/28-tv-channels.java)
-- [`return-bins](https://github.com/codedex-io/java-101/blob/main/6-methods/29-return-bins.java)
+- [`return-bins`](https://github.com/codedex-io/java-101/blob/main/6-methods/29-return-bins.java)
 - [`voicemail`](https://github.com/codedex-io/java-101/blob/main/6-methods/30-voicemail.java)
 - [`earths-moon`](https://github.com/codedex-io/java-101/blob/main/6-methods/31-earths-moon.java)

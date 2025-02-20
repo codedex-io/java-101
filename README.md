@@ -44,3 +44,11 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 - [`gibberish`](https://github.com/codedex-io/java-101/blob/main/5-arrays/23-gibberish.java)
 - [`chill-lounge-friday-afternoon`](https://github.com/codedex-io/java-101/blob/main/5-arrays/24-chill-lounge-friday-afternoon.java)
 - [`clue`](https://github.com/codedex-io/java-101/blob/main/4-loops/25-clue.java)
+
+## Methods
+- [`double-square`](https://github.com/codedex-io/java-101/blob/main/6-methods/26-double-square.java)
+- [`222`](https://github.com/codedex-io/java-101/blob/main/6-methods/27-222.java)
+- [`tv-channels`](https://github.com/codedex-io/java-101/blob/main/6-methods/28-tv-channels.java)
+- [`return-bins](https://github.com/codedex-io/java-101/blob/main/6-methods/29-return-bins.java)
+- [`voicemail`](https://github.com/codedex-io/java-101/blob/main/6-methods/30-voicemail.java)
+- [`earths-moon`](https://github.com/codedex-io/java-101/blob/main/6-methods/31-earths-moon.java)

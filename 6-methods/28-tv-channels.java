@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     // This method multiplies the channel codes and returns the result 📺
-    public static int multipy(int[] channelCodes) {
+    public static int multiply(int[] channelCodes) {
         int result = 1;
         for (int i = 0; i < channelCodes.length; i++) {
             result *= channelCodes[i];

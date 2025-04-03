@@ -1,4 +1,6 @@
-// Create your class here! 💖
+// Neopets 🦄
+// Codédex
+
 class Neopet {
     String name;
     String species; 

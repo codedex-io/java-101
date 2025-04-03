@@ -52,3 +52,10 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 - [`return-bins`](https://github.com/codedex-io/java-101/blob/main/6-methods/29-return-bins.java)
 - [`voicemail`](https://github.com/codedex-io/java-101/blob/main/6-methods/30-voicemail.java)
 - [`earths-moon`](https://github.com/codedex-io/java-101/blob/main/6-methods/31-earths-moon.java)
+
+## Classes and Objects
+- [`neopets`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/32-neopet/)
+- [`gravatia`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/33-grvatia/)
+- [`under-construction`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/34-under-construction/)
+- [`imacs`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/35-imacs/)
+- [`good-coffee-great-coffee`](https://github.com/codedex-io/java-101/blob/main/6-methods/36-good-coffee-great-coffee/)

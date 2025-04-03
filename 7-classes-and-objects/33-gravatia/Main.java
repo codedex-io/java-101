@@ -1,13 +1,13 @@
-// The Neopet class has been created for you! 💖
+// Neopets 🦄
+// Codédex
 
 class Neopet {
-	String name;
+    String name;
     String species;
-	String color;
-	char gender; 
-	Boolean hasScarf;	
+    String color;
+    char gender; 
+    Boolean hasScarf;	
 }
-
 
 public class Main {
     public static void main(String[] args) {

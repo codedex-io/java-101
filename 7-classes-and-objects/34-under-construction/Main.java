@@ -26,7 +26,8 @@ public class Main {
        Neopet gravatia = new Neopet();
 
        // Add print statement here 💖
-        System.out.println("S: " + gravatia.strength + " D: " + gravatia.defense + " M: " + gravatia.movement);
-
+       System.out.println("S: " + gravatia.strength);
+       System.out.println("D: " + gravatia.defense);
+       System.out.println("M: " + gravatia.movement);
     }
 }

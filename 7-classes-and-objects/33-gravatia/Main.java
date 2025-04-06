@@ -11,7 +11,7 @@ class Neopet {
 
 public class Main {
     public static void main(String[] args) {
-        // Create new Neopet object here 💖
+        // Create a new Neopet object here 💖
         Neopet gravatia = new Neopet();
 
         // Set the attributes of the Neopet object here 💖

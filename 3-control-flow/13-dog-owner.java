@@ -11,7 +11,7 @@ public class HelloWorld {
         } else if (isDogOwner) {
             System.out.println("Use the code WOOF for 20% off dog items.");
         } else {
-            System.out.println("Welcome to the Pets store!");
+            System.out.println("Welcome to the Pets Pets Pets store!");
         }
         
     }

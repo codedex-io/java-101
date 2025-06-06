@@ -14,9 +14,9 @@ class Neopet {
 
     // Add a constructor here 💖
     Neopet() {
-        strength = 6.2;
-        defense = 2.5;
-        movement = 5.5;
+        strength = 0.0;
+        defense = 0.0;
+        movement = 0.0;
     }
 }
 

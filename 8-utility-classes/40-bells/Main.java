@@ -1,4 +1,4 @@
-public class MusicDownloader {
+class MusicDownloader {
     private String songName;
     private String artistName;
     private String album;

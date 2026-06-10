@@ -24,6 +24,6 @@ public class HelloWorld {
         System.out.println("The result is " + multiply(13, 8, 7));
         System.out.println("The result is " + multiply(7, 9, 3));
         System.out.println("The result is " + multiply(233.9, 0.09));  
-        System.out.println("The result is " + multiply(0.1, 0.1));
+        System.out.println("The result is " + multiply(1.5, 2.3));
     }
 }

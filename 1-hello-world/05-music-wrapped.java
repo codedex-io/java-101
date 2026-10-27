@@ -2,7 +2,6 @@
 // Codédex
 
 /**
- * Woah? What's this? 🤔 It's a weird looking comment. Another *, eh?
  * Write a little bit about yourself here. What's your name? Where are you from? What do you do?
  *  
  * I'm a comment, and I want to say hi! 👋

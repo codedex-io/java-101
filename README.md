@@ -36,14 +36,14 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 - [`all-the-while`](https://github.com/codedex-io/java-101/blob/main/4-loops/17-all-the-while.java)
 - [`affirmations`](https://github.com/codedex-io/java-101/blob/main/4-loops/18-affirmations.java)
 - [`hit-the-breaks`](https://github.com/codedex-io/java-101/blob/main/4-loops/19-hit-the-breaks.java)
-- [`playing-cards`](https://github.com/codedex-io/java-101/blob/main/4-loops/16-playing-cards.java)
+- [`playing-cards`](https://github.com/codedex-io/java-101/blob/main/4-loops/20-playing-cards.java)
 
 ## Arrays
 - [`survival-pack`](https://github.com/codedex-io/java-101/blob/main/5-arrays/21-survival-pack.java)
 - [`position-0`](https://github.com/codedex-io/java-101/blob/main/5-arrays/22-position-0.java)
 - [`gibberish`](https://github.com/codedex-io/java-101/blob/main/5-arrays/23-gibberish.java)
 - [`chill-lounge-friday-afternoon`](https://github.com/codedex-io/java-101/blob/main/5-arrays/24-chill-lounge-friday-afternoon.java)
-- [`clue`](https://github.com/codedex-io/java-101/blob/main/4-loops/25-clue.java)
+- [`clue`](https://github.com/codedex-io/java-101/blob/main/5-arrays/25-clue.java)
 
 ## Methods
 - [`double-square`](https://github.com/codedex-io/java-101/blob/main/6-methods/26-double-square.java)
@@ -55,8 +55,14 @@ Welcome to the Java course! Here, you will find all the solutions to the Codéde
 
 ## Classes and Objects
 - [`neopets`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/32-neopet/)
-- [`gravatia`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/33-grvatia/)
+- [`gravatia`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/33-gravatia/)
 - [`under-construction`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/34-under-construction/)
 - [`imacs`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/35-imacs/)
 - [`virtual-pet`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/36-virtual-pet/)
 - [`good-coffee-great-coffee`](https://github.com/codedex-io/java-101/blob/main/7-classes-and-objects/37-good-coffee-great-coffee/)
+## Utility Classes
+- [`word-counter`](https://github.com/codedex-io/java-101/blob/main/8-utility-classes/38-word-counter/)
+- [`is-this-your-card`](https://github.com/codedex-io/java-101/blob/main/8-utility-classes/39-is-this-your-card/)
+- [`rocket`](https://github.com/codedex-io/java-101/blob/main/8-utility-classes/40-rocket/)
+- [`bells`](https://github.com/codedex-io/java-101/blob/main/8-utility-classes/41-bells/)
+- [`coin-exchange`](https://github.com/codedex-io/java-101/blob/main/8-utility-classes/42-coin-exchange/)
